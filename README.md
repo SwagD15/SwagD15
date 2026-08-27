@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+$ whoami
+Swagatam
+
+$ currently
+building cool stuff
+
