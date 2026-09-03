@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="9%" align="left">
+    <td width="10%" align="center">
 
 <img src="./images/techPic.jpg" width="80%" alt="Profile image"/>
 
@@ -32,7 +32,7 @@
 </div>
 </td>
 
-<td width="35%" align="right">
+<td width="35%" align="center">
 <img src="./images/ichigo1.gif" width="100%" alt="fun gif"/>
 </td>
 
@@ -53,7 +53,7 @@
 <img src="./images/techPic_11.jpg" height="150" />
 <img src="./images/techPic_12.jpg" height="150" />
 <img src="./images/techPic_13.jpg" height="150" />
-<div>
+</div>
 <br/><br/>
 <div align="center">
 
