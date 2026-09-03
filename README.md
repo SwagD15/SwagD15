@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-
+<br/>
 <div align="center">
 
   <img src="./images/techPic_1.jpg" width="40" height="225" />
@@ -62,7 +62,7 @@
 </div>
 
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
