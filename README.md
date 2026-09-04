@@ -1,4 +1,4 @@
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="10%" align="left">
       <img src="./images/techPic.jpg" width="80%" alt="Profile image"/>
@@ -23,7 +23,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Travel%20and%20places/Fire.png" width="17" /> Most Used Languages and Stats
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="65%" align="center">
       <img
